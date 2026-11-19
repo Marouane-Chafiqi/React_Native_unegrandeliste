@@ -1,9 +1,9 @@
 import * as React from 'react';
 import { View, StyleSheet, StatusBar } from 'react-native';
 
-import AppHeader from './components/AppHeader';
-import AppFooter from './components/AppFooter';
-import MenuItems from './components/MenuItems';
+import AppHeader from './src/components/AppHeader';
+import AppFooter from './src/components/AppFooter';
+import MenuItems from './src/components/MenuItems';
 
 export default function App() {
   return (
