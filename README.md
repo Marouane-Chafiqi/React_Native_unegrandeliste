@@ -17,20 +17,6 @@ Application mobile simple qui affiche le menu d'un restaurant avec `SectionList`
 - Séparateur entre les plats
 - Pied de page fixe en bas de l'écran
 
-## Structure du projet
-
-```
-React_Native_MyRestaurant/
-├── README.md
-├── screenshots/
-├── App.js
-├── components/
-│   ├── AppHeader.js
-│   ├── AppFooter.js
-│   └── MenuItems.js
-└── MyRestaurantApp/   (projet Expo)
-```
-
 ## Installation et lancement
 
 ```bash
@@ -44,4 +30,4 @@ Scanner le QR code avec Expo Go.
 
 ## Auteur
 
-Marouane Chafiqi - [GitHub](https://github.com/Marouane-Chafiqi)
+Marouane Chafiqi 
